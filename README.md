@@ -1,4 +1,4 @@
-[[https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png|Neovim]]
+[https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png|Neovim]
 
 You can use the [editor on GitHub](https://github.com/LucioZanette/nvim/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
